@@ -1,0 +1,15 @@
+C:\Users\Koms\Documents\Filip\bin\Debug\net6.0\Filip.exe
+C:\Users\Koms\Documents\Filip\bin\Debug\net6.0\Filip.deps.json
+C:\Users\Koms\Documents\Filip\bin\Debug\net6.0\Filip.runtimeconfig.json
+C:\Users\Koms\Documents\Filip\bin\Debug\net6.0\Filip.dll
+C:\Users\Koms\Documents\Filip\bin\Debug\net6.0\Filip.pdb
+C:\Users\Koms\Documents\Filip\obj\Debug\net6.0\Filip.csproj.AssemblyReference.cache
+C:\Users\Koms\Documents\Filip\obj\Debug\net6.0\Filip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Koms\Documents\Filip\obj\Debug\net6.0\Filip.AssemblyInfoInputs.cache
+C:\Users\Koms\Documents\Filip\obj\Debug\net6.0\Filip.AssemblyInfo.cs
+C:\Users\Koms\Documents\Filip\obj\Debug\net6.0\Filip.csproj.CoreCompileInputs.cache
+C:\Users\Koms\Documents\Filip\obj\Debug\net6.0\Filip.dll
+C:\Users\Koms\Documents\Filip\obj\Debug\net6.0\refint\Filip.dll
+C:\Users\Koms\Documents\Filip\obj\Debug\net6.0\Filip.pdb
+C:\Users\Koms\Documents\Filip\obj\Debug\net6.0\Filip.genruntimeconfig.cache
+C:\Users\Koms\Documents\Filip\obj\Debug\net6.0\ref\Filip.dll
